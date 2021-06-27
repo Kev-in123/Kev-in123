@@ -1,6 +1,8 @@
 ### Hi
 
- Currently working on my discord utility bot no website yet but here is an [invite link](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=67500096&scope=bot)   
-if you get some `discord.errors.Forbidden: 403 Forbidden Missing Permissions` thingy, kick the bot and use [this invite link](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=8&scope=bot)
+Currently working on my discord bot
+[invite link](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=67500096&scope=bot)   
+[website](https://kev-in123.github.io/Medieval-Plague-Doctor-Bot/)
+[support server](https://discord.gg/Pqxm8NfHKF)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=kev-in123&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=vue-dark)
