@@ -5,4 +5,8 @@ Currently working on my discord bot\
 [website](https://medieval-plague-doctor-bot.github.io/Docs/)\
 [support server](https://discord.gg/Pqxm8NfHKF)
 
+Check out my python packages\
+https://pypi.org/user/Kev_in101/
+
+
 ![stats](https://github-readme-stats.vercel.app/api?username=kev-in123&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=vue-dark)
