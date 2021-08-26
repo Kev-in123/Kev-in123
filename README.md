@@ -9,4 +9,8 @@ Check out my python packages\
 https://pypi.org/user/Kev_in101/
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=kev-in123&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Kev-in123&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev-in123&show_icons=true&theme=vue-dark)
+
