@@ -2,13 +2,13 @@
 
 
 ## Currently working on my discord bot
-[invite link](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=67500096&scope=bot)\
-[website](https://medieval-plague-doctor-bot.github.io/Docs/)\
-[support server](https://discord.gg/Pqxm8NfHKF)
+[**invite link**](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=67500096&scope=bot)\
+[**website**](https://medieval-plague-doctor-bot.github.io/Docs/)\
+[**support server**](https://discord.gg/Pqxm8NfHKF)
 
 ## Check out my python packages
 
-https://pypi.org/user/Kev_in101/
+**https://pypi.org/user/Kev_in101/**
 
 ## Github stats
 
