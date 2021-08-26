@@ -1,5 +1,4 @@
 ### Hi
--------------------------------------
 
 Currently working on my discord bot\
 [invite link](https://discord.com/api/oauth2/authorize?client_id=790763466076061696&permissions=67500096&scope=bot)\
