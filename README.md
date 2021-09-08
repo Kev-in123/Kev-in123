@@ -18,4 +18,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev-in123&show_icons=true&theme=vue-dark&layout=compact)
 
 
-![Other Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kev-in123&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)
+![Other Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kev-in123&show_icons=true&include_all_commits=true&theme=vue-dark)
